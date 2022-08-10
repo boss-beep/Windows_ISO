@@ -1,4 +1,8 @@
 # Downloadlinks
-Important Files
+All Windows OS directly online installation with burning tool recommendations
 
-Windows_10 ISO Download: https://www.mediafire.com/file/7h40plqn8n16kec/Win10_21H2_English_x64.iso/file
+First: Downoad Preffered iso : https://www.microsoft.com/en-us/software-download/
+
+Second: Create the startup disk EITHER with Rufus (WINDOWS) OR (WOE-Usb)
+
+Then have patience after finishing required instructions.
